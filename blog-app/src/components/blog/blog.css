@@ -1,0 +1,22 @@
+.entry-fields {
+    /* background-color: purple; */
+}
+
+.entry {
+    padding-top: 2%;
+    /* background-color: red; */
+}
+
+label, input {
+    display: inline-block;
+    vertical-align: baseline;
+    width: 125px;
+}
+
+input {
+    width: 98%;
+}
+
+textarea {
+    width: 99%
+}
